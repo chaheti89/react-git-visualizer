@@ -3,7 +3,7 @@
 React Git Visualizer is a small but fairly deep project that helps **visualize how Git works internally**.  
 Instead of treating Git as a black box, this project models commits, branches, and repository structure in code and then renders them visually using React.
 
-I built this to better understand Git internals myself — and to make those concepts easier to explain and explore.
+I built this to better understand Git internals myself and to make those concepts easier to explain and explore.
 
 ---
 
@@ -30,7 +30,7 @@ Everything is handled in-memory, so you can experiment freely without touching a
 - Custom hooks for state management
 - Hand-written implementations of Git data structures and graph algorithms
 
-No heavy visualization libraries — most logic is implemented from scratch.
+Most logic is implemented from scratch.
 
 ---
 
